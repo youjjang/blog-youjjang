@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\blog-youjjang\\C#\\PictureBoxRubberBandRectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE188F6-1839-4E85-86D4-808A7A90C2A4}|PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle.csproj|d:\\github\\blog-youjjang\\c#\\pictureboxrubberbandrectangle\\pictureboxrubberbandrectangle\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE188F6-1839-4E85-86D4-808A7A90C2A4}|PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle.csproj|solutionrelative:pictureboxrubberbandrectangle\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE188F6-1839-4E85-86D4-808A7A90C2A4}|PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle.csproj|D:\\github\\blog-youjjang\\C#\\PictureBoxRubberBandRectangle\\pictureboxrubberbandrectangle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BE188F6-1839-4E85-86D4-808A7A90C2A4}|PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle.csproj|solutionrelative:pictureboxrubberbandrectangle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE188F6-1839-4E85-86D4-808A7A90C2A4}|PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle.csproj|d:\\github\\blog-youjjang\\c#\\pictureboxrubberbandrectangle\\pictureboxrubberbandrectangle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE188F6-1839-4E85-86D4-808A7A90C2A4}|PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle.csproj|solutionrelative:pictureboxrubberbandrectangle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\github\\blog-youjjang\\C#\\PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "PictureBoxRubberBandRectangle\\MainForm.Designer.cs",
+              "ToolTip": "D:\\github\\blog-youjjang\\C#\\PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle\\MainForm.Designer.cs",
+              "RelativeToolTip": "PictureBoxRubberBandRectangle\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:24:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\github\\blog-youjjang\\C#\\PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle\\MainForm.cs",
+              "RelativeDocumentMoniker": "PictureBoxRubberBandRectangle\\MainForm.cs",
+              "ToolTip": "D:\\github\\blog-youjjang\\C#\\PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle\\MainForm.cs",
+              "RelativeToolTip": "PictureBoxRubberBandRectangle\\MainForm.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwG8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:22:30.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\github\\blog-youjjang\\C#\\PictureBoxRubberBandRectangle\\PictureBoxRubberBandRectangle\\MainForm.cs",
+              "RelativeDocumentMoniker": "PictureBoxRubberBandRectangle\\MainForm.cs",
+              "ToolTip": "D:\\Works\\wpf\\youjjang\\PictureBoxRubberBandRectangle\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\Works\\wpf\\youjjang\\PictureBoxRubberBandRectangle\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:20:37.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

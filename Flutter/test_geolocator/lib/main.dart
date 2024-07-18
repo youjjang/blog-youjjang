@@ -54,7 +54,7 @@ class _LocationScreenState extends State<LocationScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Test Geolocation",
+          "Test Geolocator",
         ),
         backgroundColor: Colors.amberAccent,
       ),
